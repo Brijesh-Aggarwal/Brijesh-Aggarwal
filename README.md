@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brijesh-Aggarwal
 - 👀 I’m a Data Analyst
 - 💞️ I’m open to collaborate on any projects which can increase our learning.
-- 📫 You can reach out to me on linkedin 'linkedin.com/in/brijesh-aggarwal'.
+- 📫 You can reach out to me on linkedin 'linkedin.com/in/brijesh-aggarwal' or brijeshaggarwal10@gmail.com
   
 
 <!---
